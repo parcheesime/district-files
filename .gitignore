@@ -13,3 +13,4 @@ __pycache__/
 *:*Zone.Identifier*
 token.json
 settings.py
+*.docx
